@@ -2,12 +2,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# Develovers » SantoCell࿐
+# Email      » santohp88@gmail.com
+# telegram   » https://t.me/Santo87cell
+# whatsapp   » wa.me/+6281369053648
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# SantoCell࿐
 
 REPO="https://raw.githubusercontent.com/santohp/instalasi/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}files/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
